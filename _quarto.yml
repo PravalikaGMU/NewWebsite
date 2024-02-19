@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  
 website:
   title: "Pravalika Website"
   navbar:
@@ -9,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - settings.qmd
+      - help.qmd
 
 format:
   html:
